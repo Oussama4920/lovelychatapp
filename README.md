@@ -1,18 +1,9 @@
-## Getting Started
+## About the LovelyChatApp
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Chat App for fun :
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Design an engaging UI for a Java chat application using Java Swing.
+- Implement core functionalities with Java, such as connecting to a chat server, sending messages, and displaying incoming messages in real time.
+- Dynamically update the chat interface based on user interactions, ensuring a smooth and responsive experience.
+- Introduce advanced features like user name entry, message timestamps, and a graceful exit mechanism with departure messages.
+- Apply final touches and refinements to enhance the application's usability, appearance, and performance, preparing it for distribution and use.
